@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+python-multipart
+pytesseract
+opencv-python
+Pillow
+llama-index
+openai
+python-dotenv
